@@ -1,4 +1,4 @@
-skelton_with_rspec
+skeleton_with_rspec
 ==================
 
 ## Install
